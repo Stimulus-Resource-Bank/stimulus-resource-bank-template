@@ -1,0 +1,16 @@
+{
+  "name": "com.silicolabs.[STIMLUS_SET_LABEL]",
+  "displayName": "[STIMLUS_SET_LABEL]",
+  "version": "1.0.0",
+  "unity": "6000.0",
+  "description": "[STIMLUS_SET_OVERVIEW_FROM_README]",
+  "author": {
+    "name": "Annabel Fan",
+    "email": "annabel@silicolabs.ca",
+    "url": "https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template"
+  },
+  "source": {
+    "attribution": "[PUBLICATION OR SOURCE ATTRIBUTION]",
+    "licence": "[LICENSE]"
+  }
+}
