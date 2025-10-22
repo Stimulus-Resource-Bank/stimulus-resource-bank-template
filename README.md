@@ -36,7 +36,9 @@ Example:
   3. Click the plus button \> Install packages from git URL
   4. Paste the github repository link: [https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template](https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template)
   5. Click Install, the package will be installed under Packages folder in Unity Project panel.
-* **Naming conventions:** File names are lowercase and consist of either: a single word, two words separated by an underscore (e.g., brussel\_sprouts), or the name followed by a number indicating more than one image of the same object type (e.g., bracelet1).
+* **Naming conventions:** [Explain how files are matched or grouped.]
+* Example script/demo: [Optional – link or file path.]
+
 
 ---
 
