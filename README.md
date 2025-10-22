@@ -32,9 +32,9 @@ Example:
 
 * **Import into Unity:**
   1. Open Unity project that you wish to download the package in
-  2. Go to Window \> Package Manager
+  2. Go to Window > Package Management > Package Manager
   3. Click the plus button \> Install packages from git URL
-  4. Paste the github repository link: [https://github.com/annabelfan/SRB\_thingsplus.git](https://github.com/annabelfan/SRB_thingsplus.git)
+  4. Paste the github repository link: [https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template](https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template)
   5. Click Install, the package will be installed under Packages folder in Unity Project panel.
 * **Naming conventions:** File names are lowercase and consist of either: a single word, two words separated by an underscore (e.g., brussel\_sprouts), or the name followed by a number indicating more than one image of the same object type (e.g., bracelet1).
 
@@ -44,16 +44,16 @@ Example:
 
 **Original Source(s):** 
 
-* Name: Thingsplus-CC0
-* Author(s): Martin N Hebart, Laura Mai Stoinski 
-* Year: 2019 
-* URL: [THINGSplus-CC0 dataset](https://osf.io/jum2f/files/wb36u) 
-* License: CC0 Creative Commons
+* Name:[Dataset/Resource Name] 
+* Author(s): [Author or Organization] 
+* Year: [Year] 
+* URL: [Link] 
+* License: [e.g., CC BY 4.0]
 
 **Attribution Statement:**  
 If you use this stimulus set, please cite the original dataset as follows: 
-> 
-> Stoinski, L. M., Perkuhn, J., & Hebart, M. N. (2024). THINGSplus: New norms and metadata for the THINGS database of 1854 object concepts and 26,107 natural object images. Behavior Research Methods, 56(3), 1583-1603\. 
+
+> [APA/MLA citation here]
 
 ---
 
@@ -61,24 +61,33 @@ If you use this stimulus set, please cite the original dataset as follows:
 
 * **Changes from original:**
   * Created Unity .meta files with import settings for all images
-* **Tools used:** Unity 6 (60000.0.42f1)
+  * [Example] Cropped scenes to 16:9
+  * [Example] Adjusted brightness/contrast
+  * [Example] Converted objects to PNG with transparency
+
+
+* **Tools used:** [Example: Photoshop 2024, Python Pillow, Unity 2023.2]
 
 ---
 
 ## 6\. Recommended Citation for This Set
 
-> Annabel Wing-Yan Fan (2025). _SRB - THINGSplus-CC0 Unity Package v1.0_. Adapted from [THINGSplus-CC0](https://osf.io/jum2f/files/wb36u) by Stoinski et al., 2024\.  
-> Available at [https://github.com/annabelfan/SRB\_thingsplus](https://github.com/annabelfan/SRB_thingsplus). 
+>[Your Name or Lab Name] (Year). [Stimulus Set Name] v1.0. Adapted from [Original Dataset Name].
+Available at: [GitHub/OSF/Zenodo link] 
 
 ---
 
 ## 7\. Ethical & Usage Notes
 
-* Note the original THINGS dataset is not under CC0 license and is not included in this package but can be found at the original source's URL.
+* [EXAMPLE] All images are sourced under licenses permitting reuse for research. 
+* [EXAMPLE] No personally identifiable information is present.
+* [EXAMPLE] Not for commercial use (unless otherwise stated).
+
+
 
 ---
 
 ## 8\. Changelog
 
-* **v1.0 – 2025-10-19**
+* **v1.0 – YYYY-MM-DD**
   * Initial release
