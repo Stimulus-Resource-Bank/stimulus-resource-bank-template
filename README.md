@@ -37,7 +37,7 @@ Example:
   4. Paste the github repository link: [https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template](https://github.com/Stimulus-Resource-Bank/stimulus-resource-bank-template)
   5. Click Install, the package will be installed under Packages folder in Unity Project panel.
 * **Naming conventions:** [Explain how files are matched or grouped.]
-* Example script/demo: [Optional – link or file path.]
+* **Example script/demo:** [Optional – link or file path.]
 
 
 ---
